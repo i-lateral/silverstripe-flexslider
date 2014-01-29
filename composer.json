@@ -1,0 +1,24 @@
+{
+  "name": "i-lateral/silverstripe-flexslider",
+    "description": "jQuery Flexslider based module for Silverstripe",
+    "type": "silverstripe-module",
+    "homepage": "http://github.com/i-lateral/silverstripe-flexslider",
+    "keywords": ["silverstripe", "carousel", "gallery", "flexslider"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Morven Lewis-Everley",
+            "email": "morven@i-lateral.com"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/i-lateral/silverstripe-flexslider/issues"
+    },
+    "require": {
+        "silverstripe/framework": ">=3.1",
+        "silverstripe/cms": ">=3.1"
+    },
+    "extra": {
+        "installer-name": "flexslider"
+    }
+}
